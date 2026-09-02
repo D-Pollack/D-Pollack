@@ -24,7 +24,7 @@ The evaluation program is where verification rigor lives, and it's the through-l
 |---|---|
 | [llm-eval-program](https://github.com/D-Pollack/llm-eval-program) | The full LLM evaluation methodology I run at Prox — rubrics, judge calibration, failure taxonomy, dataset lifecycle, ship/hold gates — plus the dataset-integrity tooling from CI |
 | [prox-decision-records](https://github.com/D-Pollack/prox-decision-records) | Decision records from building Prox: model selection, retrieval migration, release governance, build-vs-buy |
-| [prox-rag-architecture](https://github.com/D-Pollack/prox-rag-architecture) | Architecture writeup of the production RAG system — retrieval cascade, fusion, generation, and how the eval program instruments it |
+| [https://github.com/D-Pollack/RAG-architecture/blob/main/README.md) | Architecture writeup of the production RAG system — retrieval cascade, fusion, generation, and how the eval program instruments it |
 
 The Prox product itself is closed-source (it's a live commercial system); these repos are the sanitized, public side of how it was built and verified.
 
